@@ -28,3 +28,4 @@ Attributes are a mix of categorical and numerical data. The target variable is "
 | COUNTRY                 | The country of the customer                    |
 | AGE                    | The age of the customer                        |
 | PRICE           | The amount the customer spent                  |
+
